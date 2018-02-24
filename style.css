@@ -1,0 +1,56 @@
+body{
+	font-family: 'Roboto', sans-serif;
+    color: grey;
+}
+.compu{
+	background-image: url(image/communitymanager-1.jpg);
+    background-size: 100% 200%;
+    width: 100%;
+    height: 600px;
+}
+.recuadro{
+    top: 230px;
+    left: 60px;
+    color: black;
+    font-size: 13pt;
+    box-sizing: border-box;
+    background-color: lightblue;
+    opacity: .5;
+    text-align: center;
+    margin-top: 200px;
+}
+.segundo{
+    position: relative;
+    display: inline-block;
+    margin top:10px;
+    margin-left: 80px;
+    padding: 10px;
+}
+.iconos{
+    font-size: 100px;
+}
+.iconos2{
+    font-size: 100px;
+}
+.iconos3{
+    font-size: 100px;
+}
+.h1{
+    text-align: center;
+}
+.h2{
+    text-align: center;
+}
+table, td, th {    
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 15px;
+}
